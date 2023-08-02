@@ -1,4 +1,4 @@
-### Hi there 👋 
+
 
 <!--
 **magdalenamaygero/magdalenamaygero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 # Hi there, I'm Magdalena (they/she) </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-### Let's Connect here!
+### Let's Connect!
 <a href="https://www.linkedin.com/in/magdalenamaygero/">
   <img align="left" alt="magdalenamaygero | LinkedIn"
-<!--     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://magdalenamaygero.medium.com/">
-<!--   <img align="left" alt="Medium"
+  <img align="left" alt="Medium"
     src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"
-    height=25" /> -->
+    height=25" />
 </a>
 
 <br>        
