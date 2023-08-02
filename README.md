@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## Blog and Writings ✍️
 | Blog                                                                                                                | &nbsp;         |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Java Strings: A Comprehensive ](https://tanishagupta213.medium.com/java-strings-a-comprehensive-39cdd9882ae](https://medium.com/@magdalenamgero/react-b2de21f539b4?source=user_profile---------2----------------------------)) | Medium |
+| [[Java Strings: A Comprehensive ]([https://tanishagupta213.medium.com/java-strings-a-comprehensive-39cdd9882ae](https://medium.com/@magdalenamgero/react-b2de21f539b4)](https://medium.com/@magdalenamgero/react-b2de21f539b4?source=user_profile---------2----------------------------)) | Medium |
 | [[SASS Essentials: Basics you need to know!](https://tanishagupta213.medium.com/sass-essentials-basics-you-need-to-know-7c44c8361642](https://medium.com/@magdalenamgero/redux-66117af84d4c?source=user_profile---------1----------------------------)) | Medium |
 | [C[reate your own Filters on Instagram : An intro to Spark AR](https://tanishagupta213.medium.com/create-your-own-filters-on-instagram-8bd3ce9ba852](https://medium.com/@magdalenamgero/typescript-101-an-overview-e97ab6403e66?source=user_profile---------0----------------------------)) | Medium |
                                                            
