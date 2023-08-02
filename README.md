@@ -28,8 +28,9 @@ Here are some ideas to get you started:
     height=25" /> -->
 </a>
 
-<br>         
-https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed
+<br>        
+<a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed">
+
                                                                            
 🔭 I am currently a software engineering fellow at The Marcy Lab School in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to working with you!
  </br>                                                                                           
@@ -44,11 +45,9 @@ https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_d
 <!--  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/magdalenamaygero?hr_r=1"><b>HackerRank</b> </a>in programming. -->
  <br>
  <b><a href="https://leetcode.com/magdalenagero/">LeetCode</a></b> 
- <br> 
- <br>
-<!-- <p align="left">  -->
-<!-- <img src="https://komarev.com/ghpvc/?username=urvishajain&label=Views&color=blue&style=plastic" alt="magdalenamaygero" /> -->
-<!--  </p>      -->
+<br>
+
+<a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed"></a>
  
                                                                                 
 **Languages and Tools :**
@@ -56,7 +55,8 @@ https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_d
 <!--   <img title="Python" height="25"
 <!--     src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"> -->
 <!--   <img title="JAVA" height="25" -->
-<!--     src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/29e7bccce86a6814a3a79f55bca2495f35aaec5f/images/java-original.svg"> --> -->
+    src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/29e7bccce86a6814a3a79f55bca2495f35aaec5f/images/java-original.svg"> -->
+
   <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg">
   <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg">
   <img title="Javascript" height="20"
@@ -83,6 +83,10 @@ https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_d
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenamaygero&theme=tokyonight&layout=compact&" />
 </a>
 
+## 📫 GitHub Stats
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <a href="https://github.com/magdalenamaygero/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Magdalena's github stats" /></a>  |   <a href="https://github.com/lertsoft/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenamaygero&langs_count=5" /></a> |   
                                                                                     
                                                                                     
                                                                                     
