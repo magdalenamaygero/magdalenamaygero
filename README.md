@@ -28,9 +28,6 @@ Here are some ideas to get you started:
     height=25" /> -->
 </a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tanisha_gupta12.svg?style=social)](https://twitter.com/tanisha_gupta12)
-<br />
-
 <h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Magdalena</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating and exploring new stuff.</h3>                                                                                            
 <br>                                                                          
                                                                            
