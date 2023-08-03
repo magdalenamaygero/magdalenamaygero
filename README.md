@@ -21,66 +21,6 @@
 <p>🔭 I am currently a software engineering fellow at The Marcy Lab School in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to working with you!</p>
 
  </br>          
- <p align="center">
-## Blog and Writings ✍️
-| Blog                                                                                                                | &nbsp;         |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| add link here | Medium |
-| add link here | Medium |
-| add link here | Medium |
-                                                           
- <br>
- <b><a href="https://leetcode.com/magdalenagero/">LeetCode</a></b> 
-<br>
-
-<a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed"></a>
- 
-                                                                                
-**Languages and Tools :**
-<p align="center">
-<!--   <img title="Python" height="25"
-<!--     src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"> -->
-<!--   <img title="JAVA" height="25" -->
-    src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/29e7bccce86a6814a3a79f55bca2495f35aaec5f/images/java-original.svg"> -->
-
-  <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg">
-  <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg">
-  <img title="Javascript" height="20"
-    src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg">
-  <img height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  <img title="React" height="25"
-    src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg">
-  <img title="Problem Solving" height="25"
-    src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png">
-  <img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
-  <img height="25"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-  <img height="25"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img title="Visual Studio Code" height="25"
-    src="https://github.com/magdalenamaygero/magdalenamaygero/blob/master/images/vscode.png">
-      <br>
-      <br>
-                                                                                    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=magdalenamaygero&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenamaygero&theme=tokyonight" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenamaygero&theme=tokyonight&layout=compact&" />
-</a>
-
-## 📫 GitHub Stats
-| General         | Most Used Languages |
-|--------------|:-----:|
-| <a href="https://github.com/magdalenamaygero/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Magdalena's github stats" /></a>  |   <a href="https://github.com/lertsoft/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenamaygero&langs_count=5" /></a> |   
-
-
-
-<h1 align="center">Hi 👋, I'm Magdalena</h1>
-<h3 align="center">A passionate frontend developer from Croatia</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magdalenamaygero" alt="magdalenamaygero" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -94,6 +34,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+                                                           
+ <br>
+ <b><a href="https://leetcode.com/magdalenagero/">LeetCode</a></b> 
+<br>
+
+<a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed"></a>
+ 
+      <br>
+                                                                                    
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=magdalenamaygero&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenamaygero&theme=tokyonight" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=magdalenamaygero&theme=tokyonight&layout=compact&" />
+</a>
+
+## 📫 GitHub Stats
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <a href="https://github.com/magdalenamaygero/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Magdalena's github stats" /></a>  |   <a href="https://github.com/lertsoft/magdalenamaygero"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenamaygero&langs_count=5" /></a> |   
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdalenamaygero&show_icons=true&locale=en&layout=compact" alt="magdalenamaygero" /></p>
 
