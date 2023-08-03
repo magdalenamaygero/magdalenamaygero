@@ -1,19 +1,5 @@
 
 
-<!--
-**magdalenamaygero/magdalenamaygero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 # Hi there, I'm Magdalena (they/she) </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
@@ -30,19 +16,19 @@ Here are some ideas to get you started:
 
 <br>        
 <a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed">
-
+<br>
                                                                            
-🔭 I am currently a software engineering fellow at The Marcy Lab School in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to working with you!
- </br>                                                                                           
+<p>🔭 I am currently a software engineering fellow at The Marcy Lab School in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to working with you!</p>
+
+ </br>          
+ <p align="center">
 ## Blog and Writings ✍️
 | Blog                                                                                                                | &nbsp;         |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Java Strings: A Comprehensive ]([https://tanishagupta213.medium.com/java-strings-a-comprehensive-39cdd9882ae](https://medium.com/@magdalenamgero/react-b2de21f539b4)](https://medium.com/@magdalenamgero/react-b2de21f539b4?source=user_profile---------2----------------------------)) | Medium |
-| [[SASS Essentials: Basics you need to know!](https://tanishagupta213.medium.com/sass-essentials-basics-you-need-to-know-7c44c8361642](https://medium.com/@magdalenamgero/redux-66117af84d4c?source=user_profile---------1----------------------------)) | Medium |
-| [C[reate your own Filters on Instagram : An intro to Spark AR](https://tanishagupta213.medium.com/create-your-own-filters-on-instagram-8bd3ce9ba852](https://medium.com/@magdalenamgero/typescript-101-an-overview-e97ab6403e66?source=user_profile---------0----------------------------)) | Medium |
+| add link here | Medium |
+| add link here | Medium |
+| add link here | Medium |
                                                            
- </br>
-<!--  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/magdalenamaygero?hr_r=1"><b>HackerRank</b> </a>in programming. -->
  <br>
  <b><a href="https://leetcode.com/magdalenagero/">LeetCode</a></b> 
 <br>
