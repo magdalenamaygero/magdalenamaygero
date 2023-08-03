@@ -10,7 +10,7 @@
 </a>
 <a href="https://magdalenamaygero.medium.com/">
   <img align="left" alt="Medium"
-    src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@magdalenamgero)"
+    src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white (https://medium.com/@magdalenamgero)"
     height=25" />
 </a>
 
