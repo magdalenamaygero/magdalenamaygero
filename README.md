@@ -41,7 +41,6 @@
 
 <a href="https://github-profile-trophy.vercel.app/?username=magdalenamaygero&theme=dark_dimmed"></a>
  
-      <br>
                                                                                     
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=magdalenamaygero&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenamaygero&theme=tokyonight" />
