@@ -6,11 +6,11 @@
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/magdalenamaygero/">
   <img align="left" alt="magdalenamaygero | LinkedIn"
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    src="h[ttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ](https://www.linkedin.com/in/magdalena-may-gero-aa852a230/)/>
 </a>
 <a href="https://magdalenamaygero.medium.com/">
   <img align="left" alt="Medium"
-    src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"
+    src="[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@magdalenamgero)"
     height=25" />
 </a>
 
