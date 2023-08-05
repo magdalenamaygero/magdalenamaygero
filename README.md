@@ -2,9 +2,12 @@
 
 
 
-# Hi there, I am Magdalena (they/she) </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hi there, I'm Magdalena </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
+<h5>(they/she)</h5>
 
-<a>I am currently a software engineering fellow at The Marcy Lab School in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to working with you!</a>
+
+
+<a>I/m a current software engineering fellow at The Marcy Lab School, in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to collaborating!</a>
 <br>
 
 ### Let's Connect!
