@@ -2,7 +2,7 @@
 
 
 
-# Hi there, I'm Magdalena </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
+# Hi there, I'm Magdalena  </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
 <h5>(they/she)</h5>
 
 
