@@ -7,7 +7,7 @@
 
 
 
-<a>I am a current software engineering fellow at The Marcy Lab School, in Brooklyn. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL and React. I look forward to collaborating!</a>
+<a>I am a recent alum graduating from The Marcy Lab School as a fullstack software engineer. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL, React, NextJS and TypeScript. I look forward to collaborating!</a>
 
  <br>
 
