@@ -7,7 +7,9 @@
 
 
 
-<a>I am a recent alum graduating from The Marcy Lab School as a fullstack software engineer. I have a passion for technology, psychology and art, and I enjoy bringing these interests together in my work. Technologies I frequently leverage include JavaScript, HTML, CSS, NodeJS, ExpressJS, SQL, React, NextJS and TypeScript. I look forward to collaborating!</a>
+<a>I'm a fullstack software engineer with a strong emphasis on frontend development, user experience, and clean, scalable architecture. I bring a unique blend of creativity and logic to every project—drawing from my background in art and psychology to build interfaces that feel intuitive and human-centered.
+
+My toolkit includes React, Next.js, TypeScript, Node.js, and SQL, and I'm always pushing to lead projects that combine strong technical foundations with thoughtful design. Whether collaborating across teams or mentoring junior devs, I thrive in environments that value both innovation and impact.</a>
 
 
 
@@ -45,9 +47,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdalenamaygero&show_icons=true&locale=en&layout=compact" alt="magdalenamaygero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magdalenamaygero&show_icons=true&locale=en" alt="magdalenamaygero" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenamaygero&" alt="magdalenamaygero" /></p>
 
                                                                                                                                                                     
                                                                             
